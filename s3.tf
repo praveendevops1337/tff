@@ -1,5 +1,5 @@
-resource "aws_s3_bucket" "bucklebuck" {
-  bucket = "my-tf-massiveprince-bucket11"
+resource "aws_s3_bucket" "pjbucketjhz" {
+  bucket = "my-tf-massiv969eprince-bucket11"
   acl    = "private"
 
   tags = {
